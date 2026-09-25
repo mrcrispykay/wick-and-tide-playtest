@@ -1,6 +1,6 @@
 # Wick & Tide – playtest
 
-- Release version (main, v1.0-rc2): https://mrcrispykay.github.io/wick-and-tide-playtest/
-- Extended version: https://mrcrispykay.github.io/wick-and-tide-playtest/extended/
+- Play: https://mrcrispykay.github.io/wick-and-tide-playtest/
+- Same build, separate save (for testers who played the old "extended" link): https://mrcrispykay.github.io/wick-and-tide-playtest/extended/
 
-Built from main `86986f6` and extended `c85bbc8` on 2026-09-24. Saves are kept in your browser, separately for the two versions.
+Built from main `68540c3` on 2026-09-25. Saves are kept in your browser.
