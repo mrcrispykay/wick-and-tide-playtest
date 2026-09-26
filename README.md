@@ -4,4 +4,4 @@
 - Dev tools (Tests button, if the build has it): https://mrcrispykay.github.io/wick-and-tide-playtest/?dev=1
 - Same build, separate save (for testers who played the old "extended" link): https://mrcrispykay.github.io/wick-and-tide-playtest/extended/
 
-Built from main `e731812` on 2026-09-26 14:00. Saves are kept in your browser.
+Built from main `d0e0182` on 2026-09-26 15:18. Saves are kept in your browser.
