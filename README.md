@@ -1,7 +1,11 @@
 # Wick & Tide – playtest
 
-- Play: https://mrcrispykay.github.io/wick-and-tide-playtest/
-- Dev tools (Tests button, if the build has it): https://mrcrispykay.github.io/wick-and-tide-playtest/?dev=1
-- Same build, separate save (for testers who played the old "extended" link): https://mrcrispykay.github.io/wick-and-tide-playtest/extended/
+- Main version: https://mrcrispykay.github.io/wick-and-tide-playtest/
+- Fable plan (owner version): https://mrcrispykay.github.io/wick-and-tide-playtest/fable/
+- Fable plan, two multipliers: https://mrcrispykay.github.io/wick-and-tide-playtest/fable-2mult/
+- Add ?dev=1 for the dev tools. Each version keeps its own save in your browser.
 
-Built from main `d0e0182` on 2026-09-26 15:18. Saves are kept in your browser.
+Built 2026-09-27 22:09:
+main 8d6bc777
+fable-plan f9d5f371
+fable-plan-2mult 42c7c28c
